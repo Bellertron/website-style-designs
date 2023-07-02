@@ -1,0 +1,97 @@
+header {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.colors p {
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+.info {
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+.colors {
+  margin-left: 20px;
+  margin-right: 20px;
+  border: solid 1px grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.colors .parent {
+  text-align: left;
+  display: inline-block;
+  margin: auto;
+  width: 32%;
+}
+.child {
+  display: inline-block;
+  width: 45%;
+  height: 70px;
+  vertical-align: middle;
+  text-align: center;
+  padding-top: 15px;
+}
+#dark-purple {
+  background-color: #552273;
+  color: #BD9DD0
+}
+#light-purple {
+  color: #552273;
+  background-color: #BD9DD0;
+}
+#dark-green {
+  background-color: #21672E;
+  color: #84B58D;
+}
+#light-green {
+  color: #21672E;
+  background-color: #84B58D;
+}
+#dark-red {
+  background-color: #971F1D;
+  color: #FCAFAD;
+}
+#light-red {
+  color: #971F1D;
+  background-color: #FCAFAD;
+}
+.fonts {
+  margin: 20px;
+  border: solid 1px grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fonts .parent {
+  display: inline-block;
+  width: 48%;
+}
+h3 {
+  text-decoration: underline;
+}
+#moserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+.bold {
+  font-weight: bold;
+}
+.italics {
+  font-style: italic;
+}
+#infant {
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+.text-styles {
+  margin-left: 20px;
+  margin-right: 20px;
+  border: solid 1px grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
